@@ -1,6 +1,6 @@
 # MarvelComics
 
-Marvel Comis uygulaması Swift 5 dili ile geliştirilen bir iOS uygulamasıdır.
+Marvel Comics uygulaması Swift 5 dili ile geliştirilen bir iOS uygulamasıdır.
 
 Bu app, marveldaki karakterleri ve bu karakterlerin ayrıntılarını listeler.
 
